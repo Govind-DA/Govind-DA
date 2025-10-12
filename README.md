@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Govind-DA
-- 👀 I’m interested in Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics
-- 📫 How to reach me gk.govindda@gmail.com
+#  Hi, I'm Govind Krishnan  
+**Data Analyst | Python | SQL | Power BI | Excel | Tableau**  
 
+Welcome to my GitHub! I’m passionate about uncovering insights from data and turning them into actionable business decisions.  
+I enjoy working with real-world datasets and building end-to-end analytics projects — from cleaning and modeling to visualization and storytelling.
 
-<!---
-Govind-DA/Govind-DA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me  
+
+- Skilled in **Data Analysis, Visualization, and Business Intelligence**  
+- Experienced with **Python (Pandas, NumPy, Matplotlib, Seaborn)** and **SQL**  
+- Comfortable creating **interactive dashboards** using **Power BI** & **Tableau**  
+- Proficient in **Excel** for quick data exploration and reporting  
+- Background in **Information Technology**
+---
+## Let's Connect  
+
+<!--🌐 **Portfolio:**-->
+**LinkedIn:** [linkedin.com/in/yourprofile](#)  
+**Email:** gk.krishnangovind@gmail.com  
+
+---
+
