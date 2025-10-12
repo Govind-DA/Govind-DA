@@ -17,7 +17,7 @@ I enjoy working with real-world datasets and building end-to-end analytics proje
 ## Let's Connect  
 
 <!--🌐 **Portfolio:**-->
-**LinkedIn:** [linkedin.com/in/yourprofile](#)  
+**LinkedIn:** https://www.linkedin.com/in/govind-krishnan-99944519a/
 **Email:** gk.krishnangovind@gmail.com  
 
 ---
