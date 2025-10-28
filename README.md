@@ -1,5 +1,5 @@
 #  Hi, I'm Govind Krishnan  
-**Data Analyst | Python | SQL | Power BI | Excel | Tableau**  
+**Data Analyst | Python | SQL | Power BI | Excel**  
 
 Welcome to my GitHub! I’m passionate about uncovering insights from data and turning them into actionable business decisions.  
 I enjoy working with real-world datasets and building end-to-end analytics projects — from cleaning and modeling to visualization and storytelling.
